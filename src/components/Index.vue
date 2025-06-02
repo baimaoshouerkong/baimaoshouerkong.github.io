@@ -8,17 +8,12 @@
 export default {
   name: 'Index',
   setup() {
-    
+    let github_url = 'https://github.com/baimaoshouerkong';
+    let introduction;
   },
 }
 </script>
 
 <style scoped>
-.index{
-  background-color: skyblue;
-  box-shadow: 0 0 10px;
-  border-radius: 10px;
-  padding: 20px;
-}
 </style>
 
