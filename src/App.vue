@@ -1,15 +1,14 @@
 <template>
 
-<Index></Index>
- 
+<IntroducitonCard/>
 </template>
 
 <script lang="ts">
-  import Index from "./components/Index.vue";
+  import IntroducitonCard from "./components/IntroducitonCard.vue";
   export default {
   name: "App",
   components: {
-    Index,
+    IntroducitonCard,
   },
 };
 </script>
