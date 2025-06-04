@@ -6,6 +6,7 @@
         alt="avatar"
         class="object-cover rounded-full"
       />
+      <p>白毛兽耳控</p>
     </div>
   </div>
 </template>
