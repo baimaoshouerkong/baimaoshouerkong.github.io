@@ -7,6 +7,7 @@
         class="object-cover rounded-full"
       />
       <p>白毛兽耳控</p>
+      <p>wiki</p>
     </div>
   </div>
 </template>
