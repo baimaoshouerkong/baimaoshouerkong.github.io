@@ -8,7 +8,7 @@
       />
       <p>白毛兽耳控</p>
       <p>wiki</p>
-      <p>nihao</p>
+      <p></p>
     </div>
   </div>
 </template>
