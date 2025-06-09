@@ -8,7 +8,8 @@
       />
       <p>白毛兽耳控</p>
       <p>wiki</p>
-      <p>一个热爱ACGN的技术宅</p>
+      <p>一个热爱ACGN的技术宅，希望你们能喜欢
+      </p>
     </div>
   </div>
 </template>
