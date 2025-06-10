@@ -10,6 +10,7 @@
       <p>wiki</p>
       <p>一个热爱ACGN的技术宅，希望你们能喜欢
       </p>
+      <p>这是我的个人主页</p>
     </div>
   </div>
 </template>
