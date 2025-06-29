@@ -6,11 +6,10 @@
         alt="avatar"
         class="object-cover rounded-full"
       />
-      <p>白毛兽耳控</p>
-      <p>wiki</p>
-      <p>一个热爱ACGN的技术宅，希望你们能喜欢
-      </p>
-      <p>这是我的个人主页</p>
+      白毛兽耳控
+      wiki
+      一个热爱ACGN的技术宅，希望你们能喜欢
+      这是我的个人主页
     </div>
   </div>
 </template>
